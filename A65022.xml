@@ -1,0 +1,1477 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vindication of Mr. VVeld wherein, the case between him and his opposers, is truely stated, and the church-way of Christ soberly asserted. In answer to the aspersions most unworthily cast upon him by Mr. James Cole, Tho: Potts, Tho: Arrowsmith, George Johnson, and Ralph Clavering, (an ill recompence of all his faithfull endeavours for their eternall good) and themselves manifested to the world what spirits they are of. By a friend to truth, and an enemy to lyes.</title>
+            <author>By a friend to truth, and an enemy to lyes.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 64 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65022</idno>
+            <idno type="STC">Wing V484</idno>
+            <idno type="STC">ESTC R219234</idno>
+            <idno type="EEBO-CITATION">99830730</idno>
+            <idno type="PROQUEST">99830730</idno>
+            <idno type="VID">35184</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35184)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1877:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vindication of Mr. VVeld wherein, the case between him and his opposers, is truely stated, and the church-way of Christ soberly asserted. In answer to the aspersions most unworthily cast upon him by Mr. James Cole, Tho: Potts, Tho: Arrowsmith, George Johnson, and Ralph Clavering, (an ill recompence of all his faithfull endeavours for their eternall good) and themselves manifested to the world what spirits they are of. By a friend to truth, and an enemy to lyes.</title>
+                  <author>By a friend to truth, and an enemy to lyes.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1658.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Weld, Thomas, 1590?-1662 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Corinne Vieracker</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Corinne Vieracker</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35184:1"/>
+            <pb facs="tcp:35184:1" rendition="simple:additions"/>
+            <p> A VINDICATION OF M<hi rend="sup">r</hi>. VVELD.</p>
+            <p>WHEREIN, The Caſe between him and his Oppoſers, is truely Stated, and the Church-way of <hi>Chriſt</hi> ſoberly Aſſerted.</p>
+            <p>In Anſwer to the Aſperſions moſt unworthily caſt upon him by M<hi rend="sup">r</hi>. <hi>James Cole, Tho: Potts, Tho: Arrowſmith, George Johnſon,</hi> and <hi>Ralph Clave<g ref="char:EOLhyphen"/>ring,</hi> (an ill recompence of all his faithfull Endeavours for their Eternall good) and themſelves manifeſted to the world what ſpi<g ref="char:EOLhyphen"/>rits they are of.</p>
+            <p>By a Friend to Truth, and an Enemy to Lyes.</p>
+            <q>
+               <bibl>Pſal. 37. 5. 6.</bibl>
+               <p>
+                  <hi>Commit thy way unto the Lord: And he ſhall bring forth thy Righteouſneſſe as the Light.</hi>
+               </p>
+            </q>
+            <p>Printed in the Yeare, 1658.</p>
+            <pb facs="tcp:35184:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:35184:2"/>
+            <head>
+               <hi>A Vindication of</hi> M<hi rend="sup">r</hi>. Weld, <hi>&amp;c.</hi>
+            </head>
+            <div type="part">
+               <div type="introduction">
+                  <p>MAſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld</hi> looking upon this Pamphlet, as a falſe ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>arru<g ref="char:EOLhyphen"/>lous pittifull piece of reviling; and the Authors there<g ref="char:EOLhyphen"/>of ſo fully proclaiming to the world wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ſpirits they are of (their actions being too conſpicuous to all men that know them) could not but pitty the poor mens folly, and the hardneſſe of their hearts (being upon all occaſions ready to ſhew their teeth at him, though not at all able to bite.) Hereupon, he con<g ref="char:EOLhyphen"/>ſidering <hi>Solomons</hi> Counſell, <hi>Prov.</hi> 26. 4. <hi>Not to anſwer Fooles ac<g ref="char:EOLhyphen"/>cording to their folly;</hi> and that this ſorry Paper (to every intel<g ref="char:EOLhyphen"/>ligent Reader) ſo fully anſwers it ſelfe, that it needs no other P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n but their own to render them and their work odious to the world. Hereupon (I ſay) he fully reſolved to doe a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> King <hi>He<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ah</hi> his ſervants, when <hi>Rabſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>akey</hi> had rayled and blaſphemed, its ſaid, <hi>They held their peace, and anſwered him not a word, but ſpread it before the Lord,</hi> Iſay 36. 21.</p>
+                  <p>Yet I ſtanding by, and troub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed that ſuch hideous ſtuffe ſhould be wholly let paſſe, and ſuch men as they gr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w wiſe in their own conceipt, and knowing alſo in my own Conſcience the inno<g ref="char:EOLhyphen"/>cency, integrity<g ref="char:punc">▪</g> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aithfull dealing of Mr. <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld</hi> towards theſe poor ungr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tefull, and malitious mens ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es<g ref="char:punc">▪</g> from his firſt com<g ref="char:EOLhyphen"/>ming amongſt them, even to this day, beh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lding dayly the tra<g ref="char:EOLhyphen"/>vell of his ſoule for their eternall<g ref="char:punc">▪</g> good, had they but eyes to have ſeen it.</p>
+                  <p>Hereupon (I ſay) my ſpirit was ſo drawn out, That I could not be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lent, to ſee theſe ſorry men to act the Fools part in a Morris-dance, with Bells about his Legs and a Fools Cap on his Head, to skip, and friske, and gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gle, and ſo make ſpo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t for them that are as wiſe as himſelfe.</p>
+                  <p>What I ſhall Write, ſhall be upon certain and evident know<g ref="char:EOLhyphen"/>ledge, which ſhall be ready (if any doubt) to be made manifeſt
+<pb n="4" facs="tcp:35184:3"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ndeniably; Yea, what is here ſet down is no other then is al<g ref="char:EOLhyphen"/>ready known to moſt that live in this place, and muſt be confeſ<g ref="char:EOLhyphen"/>ſed, and cannot be denyed by the Authors of the Book them<g ref="char:EOLhyphen"/>ſelves, and moſt perti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ulers under their own Hands: And ſo there need no mans name to be ſet thereto, the things themſelves be<g ref="char:EOLhyphen"/>ing <hi>written with the beames of the Sunne.</hi>
+                  </p>
+                  <p>Firſt, I ſhall briefly ſhew Mr. <hi>Welds dealings</hi> with theſe men, and their <hi>carry<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ge</hi> towards him; and then let the <hi>honeſt Reader</hi> judge whether he or they be to blame; and whether of them are the Promiſe-breakers.</p>
+                  <p>Firſt, When <hi>Gateſhead</hi> had been long voyd of a Miniſter, and none could be obtained to ſettle amongſt them, though many were ſough<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> after; Then Mr. <hi>Weld</hi> (out of the compaſſions of his ſoule towards that diſtreſſed People, at their inſtant and preſ<g ref="char:EOLhyphen"/>ſing reque<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s) accepted the place, although he was at that very time earneſtly invited to far more deſireable places (as <hi>New<g ref="char:EOLhyphen"/>caſtle, Dur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>am, Nottingham, Morley, &amp;c.)</hi> yet being ſenſible of <hi>Gate<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heads</hi> extreame neceſſity above all the other places named, ſtudied not hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> own caſe and quiet, but forſook them all, and pitched on <hi>Gateſhead,</hi> although he then ſaw many ſad diſcou<g ref="char:EOLhyphen"/>ragements lay in his way; as, <hi>No houſe at all to live in, but a mountaine of Dung in the place of it; the Hoſpitall houſes all ru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nous (which coſt him deare to repayre;) the people far out of order, and without Government, many out-cryes againſt the people beating his eares;</hi> ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> his compaſſion to the poor peoples ſoules digeſted all; (oh, how woefully have theſe five perſons, and ſome others of them whom they call the foure and twenty, anſwered all this his love?) And what his pains and faithfull labours, his loving and patient carryage towards them have been all along, all the god<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y in theſe parts know.</p>
+                  <p>Secondly, But before he would accept the place (behold his honeſt and plain dealing with them;) For upon a Lords Day, after his Sermon, in the Pulpit, he declared to a very great au<g ref="char:EOLhyphen"/>dience; <hi>That if he took the place, it ſhould be on this Condition, That he would engage onely to Preach the Goſpel unto them, and Viſit the Sick, and that they ſhould expect no other worke from him then th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s, (unleſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> he ſhould ſee cauſe to Diſpence other Or<g ref="char:EOLhyphen"/>dinances;) no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> have cauſe to ſay afterwards, (in caſe he ſhould</hi>
+                     <pb n="5" facs="tcp:35184:3"/> 
+                     <hi>doe no more) that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e deceived them.</hi> This he plainly ſpake, and told them moreover, <hi>That if they did no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> accept of him upon theſe termes, they ſhould ſignifie their minds to the contrary to him<g ref="char:punc">▪</g> before t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e next Lords day after; and that if they did not ſo doe, he would take their ſilence for a conſent; or elſe, that h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> would turn from them to the right hand, or the left.</hi> Now not any one man or woman in that time ever came to him to ſignifie their diſ-acceptance; ſo he took it for an ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>olute grant, and ſate down with them. And this was no <hi>Impoſture in him, or a pro<g ref="char:EOLhyphen"/>ject to gain admittance,</hi> (a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Pamphleteers doe abſurdly, and malitiouſly ſuggeſt;) for its evident, he had the Call to ſundry the above-named places in writing at that time lying by him, which, he ſaith, he will ſhew to any that deſire to ſee them.</p>
+                  <p>Thirdly. As his expreſſions were plain to them; ſo alſo their own Call, which in Writing they ſent to him under a hundred and fifty hands, was as cleer that they called him, <hi>onely to Preach the Goſpel.</hi> The words of the Call are theſe; Sir, <hi>We cannot but look upon our ſelves in a diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>reſſed Condition, and ſo have been theſe many yeares, even as poor Sheep ſcattered upon the barren Mountains, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> great danger of the Wolfe, without food, leader, or guide. And ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing; to our great comfort, had a taſte of Gods gifts in you, whereby we conceive you able and fit to informe, convince, co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>vert, and edifie our ſoules in the grace of the Goſpel.</hi>
+                  </p>
+                  <p>
+                     <hi>Hence it is, That we have been ſtirred up ever ſince we heard you, and are ſo ſtill, with many a longing de<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>re (that if the will of God ſo be) to enjoy you, and continue you among<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> us. And therefore doe earneſtly entreat you in the bowels of Chriſt Jeſus, to take compaſſion on our ſoules, and to Diſpence the Goſpel to us:</hi> (as for other Enjoyments, and Ordinances, we cannot preſume upon, till you ſhall know us better, and find us fit) <hi>which if God ſhall perſwade your heart unto, we ſhall re<g ref="char:EOLhyphen"/>ceive it as a mercy from God, beyond all worldly enjoyments; for which we ſhall deſire to poure out our ſoules in prayſes to his name; and doe promiſe, by the grace of God aſſiſting (without which we are nothing) to account your feet beautifull, to yeeld obedience to the Word you ſhall diſpence from God, and to ſubmit to your wholeſome Admonitions, and to all other duties of a loving and willing people; and finally, for to walk as ſhall com<g ref="char:EOLhyphen"/>fort</hi>
+                     <pb n="6" facs="tcp:35184:4"/> 
+                     <hi>your ſpirit, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> beholding our converſation, that you may ſee the travaile of your Soule amongſt us, and rejoyce that over G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d brought you to us: Thus we wayting upon God, to put a comfortable anſwer into your mouth, We reſt,</hi>
+                  </p>
+                  <closer>
+                     <signed>Your Affectionate Friends,
+<list>
+                           <item>Thomas Potts.</item>
+                           <item>James Matther.</item>
+                           <item>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>lph Rutter.</item>
+                           <item>Henry Alder.</item>
+                           <item>Ralph Thompſon.</item>
+                           <item>Peter Greene.</item>
+                           <item>James Cole.</item>
+                           <item>John Atkinſon.</item>
+                           <item>John Willoly.</item>
+                           <item>And above ſevenſcore more.</item>
+                        </list>
+                     </signed>
+                  </closer>
+               </div>
+               <div type="section">
+                  <p>Here ſee firſt, The worke they call him to, <hi>Is onely to Diſpe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce the Goſpel, and no other Ordinances, till he ſhall ſee them fit.</hi> Secondly, <hi>What a ſingular mercy from God, and fa<g ref="char:EOLhyphen"/>vour fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m him<g ref="char:punc">▪</g> they would account his condiſcention to thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> re<g ref="char:EOLhyphen"/>queſt.</hi> Thirdly. <hi>What an obedient people to his Doctrine, how l<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>g and reſpective to himſelfe he ſhould find them.</hi> But how theſe Perſons named<g ref="char:punc">▪</g> and ſome others like them, performe their Covenant, let God and Man judge (I ſpeak not of all, for there are many in this p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ace that bleſſe God that ever they knew him, and of whom he hath been heard oft to ſay, <hi>he could live and dye withall.)</hi> I beg of God, that this very Paper of thei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> be n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t at the great day <hi>a ſwift witneſſe</hi> againſt theſe Authors of the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ok, and divers others amongſt them, but that they may repent in time<g ref="char:punc">▪</g> and bethink themſelves how they have anſwered their promiſe to God, and his faithfull Miniſter.</p>
+                  <p>Fourthly<g ref="char:punc">▪</g> Yet n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>twithſtanding after a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l theſe p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain and pub<g ref="char:EOLhyphen"/>lique expreſſions of Mr. <hi>Weld,</hi> and the Pariſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oners engage<g ref="char:EOLhyphen"/>men<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s under their own bands <hi>to expect fr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m him no other Ordinance but Preaching the Goſpel</hi> behold their dealings.</p>
+                  <p>Fi<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>, <hi>Ralph C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>avering</hi> (a b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld and inſolent man) breaks the round, and preſſeth him to <hi>Baptize his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d,</hi> which when Mr. <hi>Weld</hi> very mildly told him, <hi>He could not doe, and that himſelf, well knew as much,</hi> what bitter invectives, and ſcurri<g ref="char:EOLhyphen"/>lous
+<pb n="7" facs="tcp:35184:4" rendition="simple:additions"/> language he gave, would not be ſeemly to relate.</p>
+                  <p>After him came another of the Pamphleteers, <hi>George Johnſon</hi> (though he well knew Mr. <hi>Welds</hi> mind; yet, that he might have ſomewhat to object againſt him) preſſeth him to Baptize his Child. After their Pipe, ſome others alſo Dance, and urge the ſame thing: And after this, the foure &amp; twenty and Church war<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ens, in their Meetings, and in private alſo, for many years t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>get<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r (upon all occaſions, and without any oc<g ref="char:EOLhyphen"/>caſion at all given) <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>aſe not to vex, and tyre, and teare wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h words; Mr. <hi>Weld</hi> upon this very account, ſpitting their-rage againſt him<g ref="char:punc">▪</g> becauſe he will not Baptize their Children, and give them the Lords Supper, although he hath oft ſhown them their C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll under their own hands to exemplhim. And yet, (which is more) he hath oft told them, that whoſoever of them deſired the Sacrament (let them but be able to manifeſt their knowledge, blameleſſe lives, and the work of grace in their hearts) they ſhall be dearely welcome.</p>
+                  <p>Fifth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, Whereas ſome of theſe men, and ſome others, pro<g ref="char:EOLhyphen"/>miſed Mr. <hi>Weld.</hi> upon his comming, <hi>that his charges ſhould be borne;</hi> yet whereas his remove all of Perſons and Goods from the Sou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h, by Land and Sea, coſt him above thirty pounds; and his Orders for ſettlement from the Parliament neer twen<g ref="char:EOLhyphen"/>ty pounds; they (very fairely) turned the charges upon him<g ref="char:EOLhyphen"/>ſelfe, and ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e him not one Groat towards all.</p>
+                  <p>Sixthly<g ref="char:punc">▪</g> That they may yet further declare to the world who are the diſhoneſt men, and ſuch <hi>as break<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> promiſe</hi> (which they moſt unjuſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y father on Maſter <hi>Weld)</hi> take but another in<g ref="char:EOLhyphen"/>ſtance.</p>
+                  <p>At his firſt comming, they themſelves, without any motion of his, offe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> him for his better ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>iſtance, <hi>a yearly contribution of forty pounds,</hi> and bring him a Paper of their own Writing, ſubſcribed with more then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>40 hands for that purpoſe; the words whereof are theſe. <hi>viz. It hath pleaſed the Lord now as length to bring his Goſpel home to our Dores, and to ſend us a faithfull, able Miniſter (which is Mr.</hi> Weld:) <hi>We therefore conſidering the premiſes, doe freely and faithfully promiſe for Mr.</hi> Welds <hi>better ſubſiſtanc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, to contribute to him, ſo long as</hi>
+                     <pb n="8" facs="tcp:35184:5" rendition="simple:additions"/> 
+                     <hi>God ſhall pleaſe to continue him amongſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>, theſe ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s fol<g ref="char:EOLhyphen"/>lowing Quarterly.</hi>
+                  </p>
+                  <list>
+                     <item>
+                        <hi>James Cole</hi> 10 s.</item>
+                     <item>
+                        <hi>Tho: Potts</hi> 10 s.</item>
+                     <item>
+                        <hi>Henry Alder</hi> 5 s.</item>
+                     <item>
+                        <hi>Thomu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Wilkinſon</hi> 10 s.</item>
+                     <item>
+                        <hi>Nicholas Wilkinſon</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap>.</item>
+                  </list>
+                  <p>And above <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll<g ref="char:punc">▪</g> yet for theſe many years together breake their promiſe, and Childiſhly ſay, <hi>It was but for a yeare, or two, or three, they meant:</hi> Onely a few that are honeſt, and make Conſcience of their engagements, faithfully obſerve their Covenant to this day; ſo that he is a loſer neer 100 l. by this their unfaith<g ref="char:EOLhyphen"/>full dealing. All which things (for peace ſake, and the Goſpel, hoping to win them by love at laſt) he quietly bears.</p>
+                  <p>Seventhly. Mr. <hi>Weld</hi> being to Adminiſter the Lords Supper to the Church whereof he is Paſtour, though he well knew his power to doe it in the body of the Church, without asking any man leave, being by his Order from the Parliament, <hi>Inve<g ref="char:EOLhyphen"/>ſted in expreſſe termes into the Church it ſelfe.</hi> Yet for peace ſake (knowing theſe mens ſpirits) deſired their conſent, and it was denyed. And after at a meeting of the foure and twenty, Mr. <hi>Hammond</hi> joyned with him in the ſame requeſt; but all to no purpoſe. Yea one of them (as it was repor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed) ſaid, <hi>He wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld rather lay his bloud under the Communion table, then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ver give co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſent.</hi>
+                  </p>
+                  <p>Eightly. Then the Quire being made fit for that purpoſe, though Mr. <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld</hi> knew the <hi>Veſtery</hi> belonged to him, as his right, and ſo <hi>might</hi> have made uſe of it for any publique ſervice: Yet ſent the Sexton, to deſi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e they might have the uſe of it at the Adminiſtration of the Sacrament<g ref="char:punc">▪</g> to ſet their Pots, Cups, Bread, and Wine th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ein for preſent uſe; which was expreſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y denyed<g ref="char:punc">▪</g> as the Sex<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n affirmed to their faces, <hi>November</hi> the 3<hi rend="sup">d</hi>. they chuſing rather to imploy the ſaid roome for Lime and Sand, and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>her rubbiſh, then for the furtherance of the worſhip of God.</p>
+                  <p>Ninthly. And as the Church and Veſtery was denyed; ſo
+<pb n="9" facs="tcp:35184:5" rendition="simple:additions"/> (that theſe men might ſhew themſelves perfectly averſe to Mr <hi>Weld)</hi> they let out the <hi>Graſſe of his Church yard</hi> one yeare after another, and received the Rent, and kep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it from h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m by force (yet he not willing to con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>end, let them alone;) and becauſe they would make ſure of the money, take the r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt afore-hand of him they let it to.</p>
+                  <p>Yenthly. Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Apoſtle requires people, <hi>to have their Miniſter in ſingular l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ve<g ref="char:punc">▪</g> for his works ſake:</hi> See how theſe ve<g ref="char:EOLhyphen"/>ry m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n <hi>(viz. James Cole. Thomas Arro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſmith<g ref="char:punc">▪</g> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>,</hi> and <hi>Ralph Clavering)</hi> performe their duty of love.</p>
+                  <p>For when a Commiſſion came down the laſt yeare<g ref="char:punc">▪</g> for giving in the value of every Living in this County; theſe men ſup<g ref="char:EOLhyphen"/>poſing (fot ſo it was given out) that the end of the Commiſ<g ref="char:EOLhyphen"/>ſion was. That every Living above a hundred pound <hi>per annum,</hi> ſhould be levelled to an even hundred pound. Theſe men na<g ref="char:EOLhyphen"/>med, being Jurior<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for <hi>Gateſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ead<g ref="char:punc">▪</g>
+                     </hi> reſolving to give up his Living at 150 l. that ſo they might dep<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ive Mr <hi>Weld</hi> of 50 l. <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r annum</hi> of it, (though they knew they ſhould thereby de<g ref="char:EOLhyphen"/>prive all their ſucceeding Miniſters of ſo much;) which Mr. <hi>Weld</hi> hearing of, did demonſtrate, by ſhewing them all his Leaſes for b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th Re<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ory and Heſpi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>all that the yearely revenue ac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uing from both wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f 100 l. <hi>per annum,</hi> (and what ever he received more, was upon another account:) yet they he<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d their purpoſes; and that they might act their parts with more confidence) Mr. <hi>James C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le</hi> ſent Mr. <hi>Weld</hi> a bravado, <hi>id eſt,</hi> that he would give him 150 l. yearely for his Living. To which Mr. <hi>Weld</hi> ſent this anſwer in Writing.</p>
+                  <floatingText type="letter" xml:lang="eng">
+                     <body>
+                        <p>Sir, <hi>I received your liberall proffer of</hi> 150 l. per annum <hi>for my Living: But that I may appeare more kind to you then you are to your ſelfe, I make you this proffer (and that under my ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d, that if I go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> backe, you may ſhew it againſt me) viz. You ſhall have all my Annuall profits whatſoever for</hi> 100 l. per annum; <hi>and if you and I come <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>o conferre about it, Ile fall yet lower; make tryall of it when you pleaſe.</hi>
+                        </p>
+                        <closer>
+                           <signed>Your loving Friend, <hi>Thomas Weld.</hi>
+                           </signed>
+                        </closer>
+                     </body>
+                  </floatingText>
+                  <pb n="10" facs="tcp:35184:6" rendition="simple:additions"/>
+                  <p> To this he received no anſwer; But after all, he and the reſt went to <hi>Durham,</hi> and gave it in upon their Oathes. That his Living was worth 150 l. and ſo they told the Com<g ref="char:EOLhyphen"/>miſſioners they effered him for it. All this is upon Record.</p>
+                  <p>11<hi rend="sup">•y</hi>. Then, ſtill (to gratiſie <hi>Mr. Weld.</hi> and make his Houſe the more comfortable to him<g ref="char:punc">▪</g>) after all his coſt layd out upon the ſame (beſides what was given by the Commiſſioners, and the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ariſh of <hi>Gateſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ad</hi> towards it) to the value of 100 l. (which <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> is for the good of all their ſucceeding Miniſters, as well as for himſelfe) I ſay, to make his dwelling the more ſweet and comfortable, as a recompence for all his coſt for the good of Poſterity; they (the 24 and the reſt of the Sub<g ref="char:EOLhyphen"/>ſcribers to the Book) ſuffer a filthy dunghill (even growing to a great mountain) where all their dung, garbage, and very carryon is layd under his noſe, and to his very dore, to ſtink him, (if it may be) out of his habitation; and after many requeſts made by him, they ſtill let it lye.</p>
+                  <p>12<hi rend="sup">ly</hi>. Laſt of all (to mention no more, though it might be endleſſe almoſt to ſet down all their injuri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>us dealings) Theſe very Church wardens (he ſubſcribers of this wretched Book) this laſt harveſt (that no injury might be left unat<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>empte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) ſent to the Par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhioners and <hi>Mr. Welds</hi> Tenants, t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pay him no Tythe, nor Rent. And when ſome of the Tenants told them<g ref="char:punc">▪</g> they are tyed by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ond to pay their Rent<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>: They <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ade anſwe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eare them harme<g ref="char:EOLhyphen"/>leſſe.</hi>
+                  </p>
+                  <p>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l theſe affronte, loſſes and da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mages, hath <hi>Mr. Weld</hi> patiently indu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed for the Goſpel ſa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:punc">▪</g> fearing to harden their hearts though he knows well how eaſily he could have right<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> himſelfe) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e having been often heard to ſay, <hi>That he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d to win th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>m by love at laſt.</hi>
+                  </p>
+                  <p>But after all (to the great griefe of his ſoule) he finds their <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>earts more and more hardened even to this day, againſt the Lord and him; and, that they may declare this to the world to their own ſhame they ſet forth this miſerable Pam<g ref="char:EOLhyphen"/>phlet, thinking to diſgrace him, and all the Churches of Chriſt that walk in the Congregationall wayes; but the diſhonour ſhall wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> upon their own heads, and God
+<pb n="11" facs="tcp:35184:6"/> herein is juſt, to ſuffer themſelves to vomit out their own ſhame.</p>
+                  <p>Yet ſuch hath been <hi>Mr. Welds</hi> love to this place, and the good people therein, after all his ſufferings from ſome, That when he was profered lately (by his Highneſſe) his choyce of two as eminent places as moſt are in all <hi>England;</hi> he re<g ref="char:EOLhyphen"/>fuſed all to come again to this place.</p>
+                  <p>Now let the Reader judge where the blame lyes.</p>
+                  <p>Yet again, that there be no miſtake; let all know theſe ill dealings are not to be imputed to all in <hi>Gateſhead,</hi> for Mr. <hi>Weld</hi> counts deare to his ſoule many in this place (as he hath been often heard to ſay) not onely thoſe of his own Church (whom theſe ſcorners ſay, <hi>that Mr.</hi> Weld <hi>calls onely the godly party,)</hi> but many others that feare the Lord, many of whom God hath pleaſed to bleſſe his labours unto.</p>
+                  <p>If ſhame and diſhonour reflect upon the heads of theſe men, let them thank themſelves; for better is it that 100. ſuch as they are ſhould <hi>juſtly</hi> ſuffer for their deſerts, then one ſuch as <hi>Mr. Weld</hi> ſhould ſuffer <hi>unjuſtly,</hi> by their mali<g ref="char:EOLhyphen"/>tious mouthes and pens.</p>
+                  <p>Now to touch upon ſome other things in this Learned pee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e.</p>
+                  <p>Firſt. Who but fantaſticall men would cu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ger up ſuch bum<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aſted words, as, <hi>Precentor, docked, oecunomie, Averſati<g ref="char:EOLhyphen"/>ons, diſpotically impellency, con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſſeration, embrocation ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſticks, intimidate, fixation.</hi> Now whether the abſurdity of the Pen<g ref="char:EOLhyphen"/>ner of the Book; or the pearking pride of the pretended Authors are more diſcovered by ſuch Language, I much que<g ref="char:EOLhyphen"/>ſtion; for ſure theſe men, not being guilty of Learning, nor ſcarce able to Write true <hi>Engliſh;</hi> theſe high-flowne words, as (all men know) could never be the brats of their own braines: but they muſt tell the world, that they would faine be counted Eloquent, though to attaine this Honour, they ſhew themſelves <hi>Fooles in Print.</hi>
+                  </p>
+                  <p>Secondly, Who but prophane and ignorant men, would dare throw ſuch contempt upon the Churches of Chriſt, as to call them, <hi>New wayes of gathering Churches: Mr.</hi> Welds <hi>new Church<g ref="char:punc">▪</g> a ſeminary of Schiſme, Contention, Diviſion, Separa<g ref="char:EOLhyphen"/>tion; Mr.</hi> Welds <hi>new garbe; Pragmaticall Modell,</hi> like thoſe
+<pb n="12" facs="tcp:35184:7"/> dreamers in <hi>Jude, who ſpeak evill of things they know not.</hi> But we leave them to give account to the Lord, <hi>for ſuch hard ſpeeches as theſe ungodly men have ſpoken againſt him,</hi> Jude, ver. 8. 10. 10.</p>
+                  <p>Thirdly. <hi>But Mr.</hi> Weld <hi>deni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s them a Lecturer to Preach and Adm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>niſter the Sacraments?</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> How could that be, when they never preſented any man to him that would accept the work? Indeed they ſaid, <hi>they would procure eit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er Mr</hi> Prideaux. <hi>Mr.</hi> Cole, <hi>or Maſter</hi> Knight bridge; but inſtead of preſenting any of theſe men, they preſent a Paper to <hi>Mr. Wel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> to ſub<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cribe (as <hi>pag.</hi> 3. 4.) ſuch a miſerable and ab<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urd Paper (let the Reader per<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e and iudge) that (<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>Mr. We<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>old all them) <hi>unleſſe he had loſt both his wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nſcience, he durſt n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>er yeeld to it.</hi> For whereas <hi>Mr. W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ld</hi> hath undertaken the charge of Preach<g ref="char:EOLhyphen"/>ing the Goſpel, he muſt (if he had ſubſcribed the Paper) ad<g ref="char:EOLhyphen"/>mit any whom the people ſhould chuſe: And ſuch an one being c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oſen, <hi>muſt be eſt<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>liſhed whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er they d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſire it;</hi> and when once ſetled<g ref="char:punc">▪</g> (let him Preach falſe Doctrine be ſcanda<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> contentious, &amp;c.) <hi>Mr. Weld</hi> muſt continue him in that pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e, and muſt have no power at all <hi>to hinder him by him<g ref="char:EOLhyphen"/>ſelf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, or any other<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g> without all the peoples unanimous conſent: and this m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>t be Mr.</hi> Welds <hi>reſolu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion, and avowed conſent, to r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tifi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and c<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>firme, whatſoever the ſaid p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ple ſhall thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k fi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:punc">▪</g>
+                     </hi> ſuch an inſnaring and irrationall Paper, would no wiſe, or ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er man ever have urged; and its a Providence, that them<g ref="char:EOLhyphen"/>ſelves ſhould lay open their f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y, in Printing the Paper; whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h gi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es Mr. <hi>Weld</hi> not ſo much po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er in his own place as the poo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t-m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n in the Pariſh; for he ſhall have his vote in the Electing and putting out a Lecturer, when Mr. <hi>Weld</hi> him<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e muſt ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e nought to doe therein. Now this ſimple Paner, Mr. <hi>Weld</hi> refuſing to ſubſcribe, they cry out. <hi>He abſolu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uſed to grant them a Lecturer;</hi> whereas he refuſed the Paper, not the Lecturer.</p>
+                  <p>Fourt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly. <hi>But Mr.</hi> Weld <hi>fait<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ful<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>y promiſed to grant the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> a Lectu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>r at the ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>yc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f the people; and afterward poſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>el<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> denied to doe it?</hi> (pag 4)</p>
+                  <p>
+                     <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ.</hi> Mr. <hi>Weld</hi> (being again conſulted with about ſuch
+<pb n="13" facs="tcp:35184:7"/> promiſe) <hi>doth profeſſe</hi> (as before the Lord) <hi>ſuch a thought never came into his mind, much leſſe, ſuch a promiſe, ever fell from his mouth;</hi> Its infinitely far from his judgement, (all that know him can tell you) and as far from his pra<g ref="char:EOLhyphen"/>ctice: he ſtands amazed at their <hi>brow of braſſe,</hi> who dare tell ſuch an untruth to the world againſt their Conſcience. Its true, they deſired of Mr. <hi>Weld,</hi> liberty for one to Preach once in a m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>neth, and give them the Sacrament; and ſaid, it ſhould be either Mr. <hi>Prideaux,</hi> Mr. <hi>Cole,</hi> or Mr. <hi>Knight<g ref="char:EOLhyphen"/>bridge,</hi> and no other: His anſwer was, <hi>If ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>; they ſhould ſee there ſhould be no obſtructi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ns in him:</hi> but they never brought any of them to him to this day. Yea, we heare from credible teſtimony (who will avouch i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) that all theſe three men have utterly d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ni'd to accept the motion. Yet theſe Church-Wardens, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oldly, wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>out blu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hing affirme, <hi>they found them wi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g They bend their tongues, like <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>heir bow, for lyes; but have no courage for the tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h.</hi> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er. 9. 4.</p>
+                  <p>Fifthly <hi>But Mr.</hi> Weld <hi>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſeth to give them the Sacra<g ref="char:EOLhyphen"/>ments, though he be the Miniſter of the place.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> Yea, and good reaſon: Shall ignorant, pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>phane; ſwea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers, and drunkards; ſhall Lyers and Scorners (as many of theſe that preſſe for the Sacraments are) be pertakers of theſe holy things, 1 <hi>Cor.</hi> 5. <hi>Rev.</hi> 21. 8. and 12. <hi>Mat.</hi> 15. 7. 1 <hi>Cor.</hi> 11. 28. 29. No<g ref="char:punc">▪</g> no ſtand backe; muſt not <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eremiah</hi> ſe<g ref="char:EOLhyphen"/>pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ate the pretious from the vile? They ſpeak of 1000. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> I ſay if there were 10000. more, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et a miniſter cut off his right hand rather, then hold cut the h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly Sea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>es to ſuch. Its the weary burthen of his ſoule, that ſo many of his peo<g ref="char:EOLhyphen"/>ple are unfit for ſuch Priviledges.</p>
+                  <p>Sixthly. <hi>But this monopolizi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g the Sacrament<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, is to fill the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>lly of Coveto<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſneſſe, and to ſacrifice to the</hi> Diana <hi>of his own profit.</hi> pag. 11. 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>
+                     <hi>Anſ. (A ſtrange paradox,)</hi> Would not rather the giving the Sacraments to all, bring in more profit? for then all his Eſter B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oks, worth neer 20 l. <hi>per annum,</hi> would come in, of which now not one penny. Then would all their bounty appeare to ſuch an Adminiſtrator<g ref="char:punc">▪</g> nothing would be too deare for ſuch a miniſter. Did not one of your ſelves late<g ref="char:EOLhyphen"/>ly
+<pb n="14" facs="tcp:35184:8"/> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 
+                     <hi>Mr Weld</hi> 5 l. <hi>per annum,</hi> if he would doe this w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rk, (though he abhors ſuch baſe bribery;) and did not all the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ay, Mr. <hi>Weld<g ref="char:punc">▪</g>
+                     </hi> upon this account, <hi>ſhould have any thing what he would deſire?</hi> Now were not this the way to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hrive? And yet, it ſeem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, they wanted matter to render Mr. <hi>Weld</hi> as a man ſeeking his profit, when they cunger up an Argu<g ref="char:EOLhyphen"/>ment ſo contrary to common ſenſe. And (I muſt tell you now) if he were a man that ſought his own profit, he would hardly have been perſwaded to lay 104 l. about his Houſe, to leave it at the ſame day he leaves his place; nor quit (ſo quietly) all his charge promiſed him about his ſettlement, nor beare the loſſe of neer 200 l. of your ſubſcriptions un<g ref="char:EOLhyphen"/>der your own hands, when he know<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he might ſo eaſily re<g ref="char:EOLhyphen"/>cover it: Nor would he have taken in a Leaſe of his Recto<g ref="char:EOLhyphen"/>ry, which was 80 l. <hi>per annum</hi> (upon the complaint that through the fall of Corue, they did loſe by it) and let it pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ly for 56 l. <hi>per annum<g ref="char:punc">▪</g>
+                     </hi> (as upon conſulting with maſter <hi>weld</hi> it did appear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) and as <hi>Chriſtopher Sanderſon,</hi> and <hi>Charles M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>daleton</hi> can teſtifie, who were his Tennants. All which, i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> he had not conſulted the peace, and the progreſſe of the Goſpel, above his owne gaire, he would never have done. But to theſe men, I ſpeake as the Prophet did to <hi>Doeg, Pſal.</hi> 52. 2. 3. 4. <hi>Thy tongue d<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iſeth miſchiefs: like a ſharpe raſor, working deceitfully. Thou l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>veſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> more then good; and lying rather then to ſpeake truth. Thou loveſt all de<g ref="char:EOLhyphen"/>vouring words, O</hi> thou <hi>deceitfull tongue.</hi> Let ſuch take heed of the next verſe. <hi>(<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>er.</hi> 5) it prove not their portion. <hi>But God ſhall deſtroy thee for ever, and pluck thee out of thy dwel<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ng pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, &amp;c.</hi>
+                  </p>
+                  <p>Seventhly. <hi>But Mr.</hi> Weld <hi>Admin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſters the Sacraments, to none of his own Pariſh, but to eight women, and two men.</hi>
+                  </p>
+                  <p>
+                     <hi>Anſ.</hi> If it were ſo, let theſe ſcorners know that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en god<g ref="char:EOLhyphen"/>ly perſons may weigh in the ballance againſt ten thouſand others; and ten righteous men can more prevaile with God, then three Ci<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies, <hi>Gen.</hi> 19. 32. Yea, one <hi>Noah,</hi> one <hi>Moſes,</hi> one <hi>Elias.</hi> one <hi>Joſhuab,</hi> one <hi>Job,</hi> are more in value then millions of ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rners, lyers, and haters of Saints; yea, then the whole rabble world beſides: And dos theſe men then
+<pb n="15" facs="tcp:35184:8"/> make ten godly perſons ſuch a cont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mptible number? When, in the Arke (a Figure of Baptiſme) God himſelfe put ſuch a diſtinguiſhing character upon the number of eight, 1 <hi>Pet.</hi> 3. 21.</p>
+                  <p>Secondly. But doe theſe men ſpeake truth? or a mali<g ref="char:EOLhyphen"/>tious lye, in ſaying, <hi>there were but ten perſons</hi> Mr. VVeld <hi>Adminiſters unto in</hi> Gateſhead; whereas (truth is) i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> there were but two more, there would be twenty; and yet Chriſt himſelfe did Adminiſter the Lords Supper but to twelve, and here are eighteen even of <hi>Gateſhead,</hi> beſides twice eighteen others: But <hi>theſe mens tongues are their own; but the Lord ſhall cut out the tongue that ſpeaketh proud things,</hi> Pſal. 12. 3. 4.</p>
+                  <p>Eightly. <hi>But why doth not</hi> Mr. Weld <hi>Publiſh his grounds for his New Church?</hi> (pag. 11.)</p>
+                  <p>
+                     <hi>Anſ.</hi> Where were your ears (I marvaile) when Mr. <hi>Weld</hi> (before ever he would gather a Church) declared at large, at leaſt in ten Sermons, (out of <hi>Acts</hi> 2. 41. to the end) many cleere Scriptu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e grounds to prove the Congregationall way, the mind of Chriſt: Yet theſe men ſtill ſay, <hi>Why doth not</hi> Mr. Weld <hi>publiſh his grounds to the world?</hi> It ſeems they were either <hi>abſent</hi> from Church, as too often they are; or <hi>Napping,</hi> as he often takes them, when theſe truths were made knowne.</p>
+                  <p>Ninthly. <hi>But why doth Mr.</hi> Weld <hi>caſt us looſe Stones?</hi> as pag. 18.</p>
+                  <p>
+                     <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ſ.</hi> Oh that ye were <hi>but Stones<g ref="char:punc">▪</g> though looſe Stones,</hi> for Gods Church is called an Houſe, and a Building, and Stones (though looſe, lying ſcattered here and there) are, yet<g ref="char:punc">▪</g> 
+                     <hi>fit matter</hi> (when gathered together into one body) for a build<g ref="char:EOLhyphen"/>ing; and the godly themſelves, till united by a holy giving up themſelves to the Lord, and hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> people, as, 2 <hi>Cor.</hi> 8. 5. are but <hi>looſe Stones;</hi> And doe ye (who are ſo far from the ſhew of god<g ref="char:EOLhyphen"/>lineſſe) diſdaine to be called <hi>looſe Stones?</hi> I tell you, It<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a title too good, a terme too high for ſuch as are but <hi>mi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lay yea, rotten bones,</hi> and <hi>Straw fit for the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ugh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll,</hi> Iſay 10. 6. Iſay 25. 10. Ezek. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>7. 1. 2. As for that ſcorn<g ref="char:EOLhyphen"/>full reproach they caſt upon Mr. <hi>Weld,</hi> as counting himſelfe <hi>a Corner Stone;</hi> it were horrid preſumption for him, or any
+<pb n="16" facs="tcp:35184:9"/> man ſo to doe, that terme being proper to Chriſt himſelfe, <hi>(Pſal.</hi> 118. 22. 1 <hi>Cor.</hi> 3. 11. <hi>John</hi> 3. 10) and far from the ſpi<g ref="char:EOLhyphen"/>rit of Mr. <hi>Weld.</hi> Ile onely ſay of them, as its ſpoken of a man of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir own cut, <hi>That he prated againſt the Apoſtles with malitiou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> words,</hi> ſo doe they againſt his faithfull Mini<g ref="char:EOLhyphen"/>ſters. But as <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>mon</hi> ſaith, <hi>Pro.</hi> 10. 10. <hi>A pra<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>le ſhall f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ll.</hi>
+                  </p>
+                  <p>Tenthly. <hi>But they with much patie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ce and moderation be<g ref="char:EOLhyphen"/>ſought Mr.</hi> Weld, <hi>&amp;c.</hi> pag. 20.</p>
+                  <p>
+                     <hi>Anſ.</hi> If ſhewing their teeth if ſpitting fire, if reviling, and if turning back upon him, when he was anſwering of them, and con<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>incing of them; I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> theſe things ſpeak pati<g ref="char:EOLhyphen"/>ence and modera<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>on, then have they bin <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ull of theſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> graces. B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t oh that th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y kn<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>w what patience and moderation mean; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> leave thus to commend themſelves when no g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> kno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s them, wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> can, or da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e doe i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</p>
+                  <p>El<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>venthly See how fit for the Sacraments theſe men are (fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ides all their injurious, ungratefull, and malitious de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ling agai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt Mr. <hi>Weld.</hi> and the many gro<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e lyes and ſlan<g ref="char:EOLhyphen"/>ders that run all along through the veines of t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> poo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Book; and be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ides the ſcandals in their lives, all which, or any of which, were enough to bar them from the Sacrament:) I ſay, b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> all theſe, doe but take notice of their <hi>p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ofound igno<g ref="char:EOLhyphen"/>rance</hi> ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>wen in this Pamph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>et (the naming whereof is con<g ref="char:EOLhyphen"/>viction en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ugh) <hi>viz.</hi>
+                  </p>
+                  <p>As firſt. <hi>That the Sacrament ſhould be A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>miniſtred to all without di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tinction,</hi> pag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>0.</p>
+                  <p>Second<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y. <hi>Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t all in generall.</hi> (for its taken by them <hi>pro <gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>eſſo) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lified for the Sacrament,</hi> pag. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>1.</p>
+                  <p>Thirdly. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t <hi>every Miniſter aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ming a Paſtorall Charge, ought to adminiſter the Sacrament to all by the Lawes of God a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n.</hi>
+                  </p>
+                  <p>Fourthly. That <hi>there is abo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e</hi> 1000 <hi>godly people in</hi> Gateſ<g ref="char:EOLhyphen"/>head (<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> as hun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er and thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt after ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hteouſneſſe, are g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>atious, <hi>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>.</hi> 5. 6. <hi>Mat.</hi> 5. 3. <hi>Pſal.</hi> 63. 2. <hi>Iſay</hi> 63 2.) and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ffi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>me of a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ove a thouſand ſoules in this Pariſh.</p>
+                  <p>Fif<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y. Th<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> 
+                     <hi>the Sacraments are the moſt tranſcendently effe<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>l inſtrum<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ts for redeeming us from all iniquity and ſin,</hi> p. 17.
+<pb n="17" facs="tcp:35184:9"/> (oh the groſſe ignorance and Popery) for this is onely apply<g ref="char:EOLhyphen"/>cable to the <hi>blood</hi> of Chriſt, and never attributed to the Sa<g ref="char:EOLhyphen"/>craments, <hi>Epheſ.</hi> 1. 7. <hi>John</hi> 1. 17. <hi>Titus</hi> 2. 14. Now if theſe men be not onely profane, but ſo <hi>groſſe headed</hi> that they can<g ref="char:EOLhyphen"/>not diſcerne theſe common truths, which are obvious to eve<g ref="char:EOLhyphen"/>ry eye that is open; how are they able <hi>to diſcerne the Lords Body,</hi> which is more ſpirituall (for want of which, they eate their own damnation:) yet they cry out for it, and Mr. <hi>Weld</hi> muſt <hi>be hated, reviled,</hi> and <hi>reproached, becauſe he will not give it.</hi>
+                  </p>
+               </div>
+            </div>
+            <div type="part">
+               <head>That which follows, is a ſecond Anſwer to the Booke, by another Hand.</head>
+               <p>HAving Read a Pamphlet, lately put forth in the name of the Pariſh of <hi>Gateſhead,</hi> ſigned by the foure Church-wardens, and <hi>Ralph Clavering,</hi> who by the Pen of ſome Epiſcopall Spirit, have, in a vain vaunting ſtile, heaped up very many calumnies (and judging them ſo many Argu<g ref="char:EOLhyphen"/>ments) for promiſeuous Parochyall Adminiſtrations, againſt the Congregationall Church-way; I was provoked in my ſpirit, both for the juſt Vindication of the holy wayes of Chriſt, and for the clearing of the name of that much wronged, though very uſefull ſervant of the Lord Jeſus, Mr. <hi>Weld,</hi> to diſcover the ſinfull pleas of that vain painted Pamphlet. I ſhall onely apply my ſelfe to that part of the Book, which conſiſts of <hi>twelve Sections, and fourteen Quaeries,</hi> conſidering that the other part, being matter of fact, is faith<g ref="char:EOLhyphen"/>fully, and fully anſwered before. In the enterance into the Sections, you have this Title, <hi>Diotrephes;</hi> or, <hi>Altare contra Altare.</hi> Its well known to any that have Read <hi>Smectym<g ref="char:EOLhyphen"/>num,</hi> againſt Biſhop <hi>Hall,</hi> or any other Presbyterian Wri<g ref="char:EOLhyphen"/>ters, about that place of the 3 of <hi>Iohn</hi> 8. 9. that <hi>Diotrephes</hi> was not blamed for giving the Brethren their liberty in
+<pb n="18" facs="tcp:35184:10"/> Church-votes purchaſed by the death of Chriſt; nor deny<g ref="char:EOLhyphen"/>ing thoſe that were no Church-<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>embers the peculiar rites of Ch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rches; but <hi>for uſurping preheminence above his Bre<g ref="char:EOLhyphen"/>then;</hi> not that I conceive the Presbyterians grant th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Bre<g ref="char:EOLhyphen"/>thren a Vote; but to cleare the ignorant app<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ication of that Title to <hi>Mr. Weld,</hi> by them that pretend, <hi>pag.</hi> 8. to know the judgement of all L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arned Divines: And for <hi>Altare contra Altare,</hi> would they have their old Epiſcopall Altar up again? the book ſmels ranke of that deſigne<g ref="char:punc">▪</g> but let them know, That as the gathering of the Saints into a body, is no ſet<g ref="char:EOLhyphen"/>ting up an Altar, but, <hi>building an houſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for Chriſt;</hi> ſo their Altar was long agoe deſtroyed, at the pulling downe of Epiſcopacy; they knew who made it a place of lim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and rubbiſh ſince.</p>
+               <p>In the firſt Section, you have them aſſerting three things. Firſt, <hi>Their being loth to periſh tamely.</hi> Secondly, <hi>How</hi> Maſter Weld <hi>hath rayſed their ſpleene.</hi> Thirdly, <hi>What great attain<g ref="char:EOLhyphen"/>ments they have reach<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in the myſteries of the Goſpel, and Divine Grace, and that upon account of their Baptiſme.</hi> To the two firſt. I might juſtly Anſwer by way of Exclamati<g ref="char:EOLhyphen"/>on, <hi>Why will you dye! and why will you dye in a rage!</hi> muſt you needs dye of the ſpleene? Friends when you come to dye, c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll to mind, that it is not the want of Sacraments will be your ruine (for you would but have eate and dranke your own damnation, if you had them in the frame you are in) your <hi>ignorance of Chriſt, and oppoſition to him</hi> will be your ruine, if the Lord doe not change your hearts. For the third. <hi>Y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> gle<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>g in y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ur attainments;</hi> Firſt, you ſay, you are <hi>Proſelytes of juſtice;</hi> Doe you know what you ſay or whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eof you affirme? Reade the deſcription of Pro<g ref="char:EOLhyphen"/>ſelytes of juſtice in Scripture, and then judge what you have ſaid; they were ſuch as <hi>Cornelius,</hi> and the <hi>E<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uch,</hi> they were <hi>devou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> men,</hi> Acts 2. 5. ch. 10. 2. 7. <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>en fearing God,</hi> Acts 13. 16. <hi>religious men,</hi> Acts 13. 43. Now (Reader) if thou knoweſt the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e men, judge whether they be ſuch Pro<g ref="char:EOLhyphen"/>ſelytes. As for the ſeven Precepts of <hi>Noah</hi> given to the Pro<g ref="char:EOLhyphen"/>ſelytes of the ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, I wiſh they either underſtood them, or practiſed them; but pretenders will be high flowne. But
+<pb n="19" facs="tcp:35184:10"/> they ſpeake of <hi>warmth, and gleames of grace</hi> that they have had; take heed of lying to the holy Ghoſt; what means ſo much power of the <hi>ſtony heart,</hi> and <hi>profane life,</hi> if there have been ſuch meltings of Divine Grace? pleaſe not your ſelves with words grace is a transforming thing.</p>
+               <p n="2">2. The ſecond Section <hi>cryes up the old Laws of</hi> England, <hi>for promiſcuous Adminiſtrations;</hi> as if the houſe of Chriſt in Church work in times of reformation, muſt be ſqua<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed and govern'd by old Statute Lawes. I wonder what Laws of 1 <hi>Edward</hi> 6. or 3 <hi>Edward</hi> 6. or 1 <hi>Elizabeth,</hi> eſtabliſhed Preſ<g ref="char:EOLhyphen"/>byterian Government, which theſe men pretend ſo much to; If you put theſe Laws in force, you muſt have <hi>Biſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ps, and Spirituall Courts, and Common Prayer;</hi> but Onions and Garlick will doe enough with theſe men. And for the Scri<g ref="char:EOLhyphen"/>pture quoted to prove <hi>Miniſters bound to give the Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ra<g ref="char:EOLhyphen"/>ments to all the Pariſh.</hi> Did ever the Apoſtles write to a Pa<g ref="char:EOLhyphen"/>riſh Church? True, the Sacraments are indeed <hi>annext to the Office of a Miniſter,</hi> but to be diſpenced onely to the Flock of Chriſt: for that place of <hi>Mat.</hi> 28 19. it is onely for <hi>Baptiſme,</hi> not for the <hi>Lords Supper;</hi> and not for Baptiſme <hi>to all,</hi> but to ſuch as by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaching are firſt made <hi>Diſciples,</hi> as the Originall word hath it. For <hi>Ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke</hi> 14. 22. it is for <hi>Chriſts giving the Supper onely to his Diſciples;</hi> Are theſe men, and all the Pariſh ſuch? are they all of Chriſts Family, and Diſciples? for <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts</hi> 2. 41. (another of their quoted Scri<g ref="char:EOLhyphen"/>ptures) its ſpoken of <hi>Baptizing ſuch as gladly received the Word.</hi> O that theſe men, and the Pariſh of <hi>Gateſhead</hi> were ſuch! But is violent oppoſing the Word, <hi>a glad receiving</hi> of it? And for <hi>Titus</hi> 1. 7. its full againſt them, for it tells us the Duty of <hi>a Miniſter to be as Gods Steward;</hi> and if God<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Steward, he muſt be <hi>faithfull,</hi> as 1 <hi>Cor,</hi> 4. 1. 2. now faithfulneſſe lyes in diſpencing what proviſion is under his hand<g ref="char:punc">▪</g> to ſuch of the Family as Chriſt his Maſter com<g ref="char:EOLhyphen"/>mands, Now to whom will Chriſt have the Sacraments diſ<g ref="char:EOLhyphen"/>penced? why, let himſel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſpeake, <hi>Mat.</hi> 7. 6. <hi>Mat.</hi> 15. 26. <hi>Mat.</hi> 14. 2<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and let his Apoſtles ſpeake, <hi>Acts</hi> 2. 42. 1 <hi>Cor.</hi> 1. 28. really, ſuch horrible abuſe of the Scriptures, is enough to make them bluſh. In this Section, you have many fan<g ref="char:EOLhyphen"/>taſticall
+<pb n="20" facs="tcp:35184:11"/> words, <hi>pr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>entor, deſpetically, Pragmaticall modell;</hi> but what is their plea? <hi>That either</hi> Mr. Weld <hi>muſt give h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>th the Sacraments to the Pariſh, or elſe he acts contrary to the judgements of all Learned Divine,, and the Conſtitutions of all Chriſtian Churches.</hi> It pitties me to ſee, <hi>hujus farina homin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s,</hi> to talke at this rate; were Dr. <hi>Ames,</hi> Mr. <hi>Cotten, Hooker, Shepheard, Owen, Goodwin, Burroughs, &amp;c.</hi> neither Divines, nor Learned? nay ve<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y many of the godly Presby<g ref="char:EOLhyphen"/>terian M<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ni<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ers give the Lords Supper but to a few in a nu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erary Pariſh n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to a hundred, where there is a thouſand in the Pariſh. <hi>But</hi> M. Weld <hi>acts like the Phylar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ha amongſt the</hi> Jewes. <hi>Anſ.</hi> If you knew any thing of Church-government, you would know. That Congregated Churches are not mo<g ref="char:EOLhyphen"/>delled like <hi>Iewiſh Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>im<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> Chriſt will one day cleare M. <hi>Weld</hi> of Prag<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aticalneſſe, <hi>in diſtinguiſhing the pretious from the vile,</hi> Ier. 15. 19.</p>
+               <p n="3">3. The third Section pretends, <hi>That unleſſe they offer vio<g ref="char:EOLhyphen"/>lence to their judgement<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, they c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nnot Communicate with maſter</hi> Weld; <hi>or that the fault of their not comming under the yoke of Chriſt l<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y onel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> in their underſtandings.</hi> But alas, their co<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>upt w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls, and carnall aff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions, makes them caſt the cords of Chriſt from them. <hi>But they will not give up their Eyes to the Pri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſts in Sacrifice.</hi> Truely, I am ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e affraid, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>y have Eyes and ſee not; yet ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch as they, would doe well to give their Prie<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s their Eyes, who if they had their wills, would onely have blind guides, howe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er they thinke to get a name<g ref="char:punc">▪</g> by pretending reſpects to ſome gratious Pres<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yterian Miniſters: Truely Friends, you are ſo far from giving <hi>M. Weld</hi> your Eyes, that I am afraid you would be more likely to p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l out his Eyes, if you could.</p>
+               <p n="4">4. In the fourth Section, they have <hi>the ſaid plea</hi> in other words; O that they would a little think of that of Chriſt, <hi>Ioh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> 7. 17. <hi>If any man wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l doe his will, he ſhall know the Doctrine whether it b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d:</hi> mens vitious lives corrupt their judgements; if their underſta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dings be ſo good, as they wou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d make the world beleeve, I heartily wiſh, their lives did expreſſe the truth of that axiome, <hi>Volu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tus ſe<g ref="char:EOLhyphen"/>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itur dictamen int<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>llectus,</hi> if <hi>quoad exercitium</hi> onely. But maſter
+<pb n="21" facs="tcp:35184:11" rendition="simple:additions"/> Mr. Weld <hi>quarrels, becauſe you cannot beleeve many things which he chanceth to beleeve:</hi> No Friends, you flatter your ſelves, and wrong him; his controverſie is, becauſe you will not beleeve in Ieſus Chriſt. And for your ſaying, Mr. Weld <hi>chanceth to beleeve,</hi> how you chance to come by the faith you have, I know not; but I am perſwaded Mr. <hi>Weld</hi> his faith is of <hi>the operation of God.</hi>
+               </p>
+               <p n="5">5. As to the fifth Section, where you would infinuate, Mr. Weld <hi>his not obliging you to a complyance;</hi> Mr. <hi>Weld</hi> his obligations have been many to the people of <hi>Gateſhead;</hi> but diſ-ingenuous ſpirits ſtrive to ſhake off obligations; but what ever ung<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atefull men thinke, yet there are ſeve<g ref="char:EOLhyphen"/>rall pretious ones in <hi>Gateſhead,</hi> who judge themſelves for ever b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und to the Lord for his comming thither. And for your ſhuffling interpretation <hi>of that command, Live peace<g ref="char:EOLhyphen"/>ably with all men;</hi> lay that of <hi>Hoſea</hi> to heart<g ref="char:punc">▪</g> 
+                  <hi>chap.</hi> 4. 4. <hi>This people are as they that ſtrive with the Pri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt:</hi> But they ſay, <hi>the command extends but to a Morall, or Legall poſſi<g ref="char:EOLhyphen"/>bility.</hi> Friends, are you Morally or Legally uncapable of peaceableneſſe? I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it not poſſible for you quietly to wa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te till the Lord fitted you for Sacraments, by ſome effectuall worke upon your hearts, and in mean time be peaceable?</p>
+               <p n="6">6. To your ſixth Section, you affi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me, <hi>You have exami<g ref="char:EOLhyphen"/>ned the grounds of the Congregationall way.</hi> I beleeve your Conſcience will fly in your face, and tell you, how li<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e you have examined the mind of God in thoſe things; no, (I am afraid) other things fill your heads, and hearts: If ever you intend to know the platforme of God, Firſt reade that of <hi>Ezeki<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l</hi> with broken hearts. <hi>chap.</hi> 43. 10. 11. 12. and does <hi>the engagement to Ieſus Chriſt, and his people, deterre you from Communion?</hi> I am ſorry to ſee h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly en<g ref="char:EOLhyphen"/>gagements affright you from obedience to Chriſt. But <hi>Mr.</hi> Weld <hi>mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> no Publication of his gathering a Church.</hi> Sure Friends, the Penner of the Pamphlet (who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver it was) did not adviſe with you about it: or elſe you could, and would have told him. That he Preacht at large, and that Publikely in <hi>Gateſhead</hi> meeting place upon <hi>Gen.</hi> 2. 41, 42<g ref="char:punc">▪</g> 43. and that before the gathering of the Church; but here
+<pb n="22" facs="tcp:35184:12"/> is not <hi>ignorantia pura negation is,</hi> but <hi>prav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> diſpoſitiones;</hi> I pray repent of this: Yea, <hi>But he retarded a great while before he gathered the Church.</hi> Wonder not at it, Churches of Chriſt are not made up of the rubb<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh of Pariſhes; he would take time to know what ſtones were to be layd in the building: Churches are not heaps<g ref="char:punc">▪</g> but made up of pretious ſtones. And, <hi>for the bemoaning your ſtre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ghts,</hi> it is but Gods hedging up your way, that you cannot have your other lovers, <hi>Hoſea</hi> 2. 6. 7.</p>
+               <p n="7">7. The ſeventh Section is filled with <hi>ignorance and malice.</hi> Did Chriſt leave his Body and Blood to be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od under ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t by prophane hearts? <hi>Symbola Chr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſti,</hi> were never intended for a Linſey Wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſey <hi>Conteſſeration; Mr. Weld</hi> is more ten<g ref="char:EOLhyphen"/>der of the deare blood of his Chriſt<g ref="char:punc">▪</g> and of poore ſoules, then to let the people eate and drinke their damnat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on; And for the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nful<g ref="char:punc">▪</g> ſlanders o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the good wayes of God, cal<g ref="char:EOLhyphen"/>ling them, <hi>a S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nary of Sch<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſme, &amp;c.</hi> this is th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> old Po<g ref="char:EOLhyphen"/>piſh a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>arum <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gainſt all Reformation. And for your <hi>Mono<g ref="char:EOLhyphen"/>poly,</hi> I would deſire you to learne That a Church is a City gathered out of the World, with its ſpirituall Priviledges ap<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rop<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iated to it, <hi>Epheſ.</hi> 2. 10. You cloſe the Section with a very fal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e charge of <hi>Ambition, and Covetouſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſſe, as the Principles of Independency.</hi> But his Friends know, and his Ene<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies might know, how many reproaches, and what in<g ref="char:EOLhyphen"/>j<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ries in h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s maintenance h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hath ſuffered, upon the naked account of gathering a Church in Chriſts way: Surely, he ſate downe and conſidered what virulent, and violent ca<g ref="char:EOLhyphen"/>lumni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s he ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uld meet with by following Chriſt in this way, which he now finds.</p>
+               <p n="8">8. This eighth Section is f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll of the <hi>Serpents venome and bitterneſſe.</hi> The Violence and Oppreſſion exerciſed towards him in p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>int of maintenance, might have ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pt the mouthe of thoſe clam<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, if it had been confidered: And if the Church (over which h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is Ove<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-ſeer) doe endeavour in his ſuffering, upon their ac<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unts<g ref="char:punc">▪</g> to encourage him in his multiplyed labours of frequent Exerciſes and Adminiſtra<g ref="char:EOLhyphen"/>tions<g ref="char:punc">▪</g> let not your Eye be evill, becauſe theirs is good. I wonder you ſhould call <hi>gathering a Church out of a pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>miſcuou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <pb n="23" facs="tcp:35184:12"/> 
+                  <hi>multitude, plurality of Livings.</hi> Doe not even the godly Presbyterians ſo? Doe not many of them leave ou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the far greater number of the Pariſh? If <hi>argumentum ad hominem</hi> would prevaile, this might doe.</p>
+               <p n="9">9. Ninth Section, Here appears much <hi>unmannerly revi<g ref="char:EOLhyphen"/>ling of a Reverend Miniſter of the G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpel, whom you charge with perſonall contumacy.</hi> Oh Friends, <hi>Why hath Satan filled your Hearts?</hi> But what's the matter? Mr. Weld <hi>will not breake Spiritualll Bread with the Pariſhioners;</hi> Is this perſo<g ref="char:EOLhyphen"/>nall contumacy, that he will not let the uncleane into the Temple? That he will not let the Goats into the Fould of Chriſt? <hi>But it break<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> the Peace of the generallity of the People.</hi> We had better want peace, then Crucifie the Lord Jeſus afreſh; What! proſtitute the Body of Chriſt to keep peace wirh profane men; Reade <hi>Luke</hi> 12. 49</p>
+               <p n="10">10. Tenth Section. What Mr. <hi>Welds Call was,</hi> you have at large declared to you, which, in truth, was a good hand of Providence, for the ſtopping of the mouthes of unrea<g ref="char:EOLhyphen"/>ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able men. And <hi>for their quoting the Statute of</hi> 13. Eli<g ref="char:EOLhyphen"/>zabe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they forget, they profeſſe themſelves Presbyterians, a thing Queene <hi>Elizabeth</hi> and her Councell could not beare. Were the Lawes of Epiſcopall Adminiſtrations a bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>then to the non-conformiſts then? and ſhall we be brought under thoſe yokes now? <hi>And for receiving the maintenance ari<g ref="char:EOLhyphen"/>ſing from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he place<g ref="char:punc">▪</g>
+                  </hi> he hath a warrant from Chriſt, 1 <hi>Cor.</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 14 The <hi>Lord hath ord<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ine<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, that they which Preach the Goſpel<g ref="char:punc">▪</g> ſh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uld live of the Goſpel.</hi> But to Anſwer to the te<g ref="char:EOLhyphen"/>nure of your Quaerie, <hi>that he is bound to Adminiſter the Sacraments;</hi> then, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay there are upon twenty members of the Church who are Inhabitants of <hi>Gateſhead,</hi> to whom the Lord hath abu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dantly bleſſed his Miniſtery, to whom he doth Adminiſter; and doth not he herein performe the ſpirituall miniſtrations in <hi>Gateſhead?</hi> But you charge him with <hi>an un<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>heologicall plea.</hi> I pray you give me leave to aske you foure Church-wardens, whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h of you have been Bapti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed into the profeſſion of Theology, or matr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>culated into any Univerſity; but I am apt to thinke, that you plowed with a <hi>Theologicall Heyfer,</hi> who might have ex<g ref="char:EOLhyphen"/>pounded
+<pb n="24" facs="tcp:35184:13"/> this Riddle to you, that <hi>not to give the Sacrament to all the Pariſh, is no deprivation of a Miniſters mainte<g ref="char:EOLhyphen"/>nance.</hi>
+               </p>
+               <p n="11">11. Eleveth Section. <hi>Here you have a fardle of fine ſpun words, and an heape of rayling.</hi> Know Friends, That thoſe that can neither make faith in Chriſt, nor holineſſe in con<g ref="char:EOLhyphen"/>verſation, ſhall never goe (notwithſtanding their pretended wedding garment of Baptiſme) in the day of tryall, for a Spouſe of Chriſt. I wiſh you remember, That for all the <hi>Iewes</hi> pretence, to bring a Church upon the account of an initiating Ordinance; yet they were not let into the Church of Chriſt, <hi>without pricking at the Heart by the Word.</hi> Could <hi>Mr. Weld</hi> ſee you prickt at the Heart, how deare and wel<g ref="char:EOLhyphen"/>come would you be to him? You tell him of <hi>Embro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ati<g ref="char:EOLhyphen"/>on, Cauſtickes, and Exciſion;</hi> ſure you would tell the world what Empericks you are; but if you have any Latine<g ref="char:punc">▪</g> re<g ref="char:EOLhyphen"/>member, That <hi>immedicabile vulnus anſe reciden<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>um eſt.</hi> And <hi>for his Excommunicating a thouſand ſoules;</hi> he profeſſeth to have nothing to doe in point of cenſures with them that are without. No, no, your being Pariſhioners of <hi>Ga<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ead</hi> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath no Scripture warrant to make you members of a Church of <hi>Chriſt:</hi> it is not habitation makes a Spouſe of <hi>Chriſt.</hi> How many Enemies of <hi>Chriſt</hi> lived in <hi>Ieruſalem</hi> where the Church lived, and were not members? Shall Papiſts, and Atheiſts pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>end, becauſe they dwell in <hi>Gat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſhead,</hi> to be Church-members? That groſſe untruth of <hi>there being but ten I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ha<g ref="char:EOLhyphen"/>bitants in</hi> Gateſhead, <hi>members of his Church,</hi> is fu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly an<g ref="char:EOLhyphen"/>ſwered before.</p>
+               <p n="12">12. Twelfth Section. Here <hi>you have the buſineſſe of the L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cturer to be impoſed upon Mr.</hi> Weld. Let me a little open the unreaſonableneſſe of this Propoſall, let any gratious, ſober Miniſter of the Presby<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erian judgement put but this caſe, Whe<g ref="char:EOLhyphen"/>ther he having gathered the beſt of the People of his judge<g ref="char:EOLhyphen"/>ment out of his Pariſh for Fellowſhip and Communion in the Lords Supper, that if the remainder that lye ſtill in their ignorance and oppoſition (to whom he neither can, nor will Adminiſter the Lords Body) ſhould deſire a Mini<g ref="char:EOLhyphen"/>ſter beſide himſelfe in that place to give them the Sacra<g ref="char:EOLhyphen"/>ment
+<pb n="25" facs="tcp:35184:13"/> at the accuſtomed times, as they here expreſſe it? Whether (I ſay) he would thinke it reaſonable that they had their deſires? this is <hi>Mr. Weld</hi> his caſe. Secondly. Looke but to the Aſſurance required about placing a Lecturer, <hi>p.</hi> 5. where it is demanded, <hi>that Mr.</hi> Weld <hi>give it under his hand never to meddle in the choyce or removeall of the Lecturer, what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> may prove.</hi> Were there ever ſuch Iron yokes put upon a Reverend Miniſter of Chriſt? and yet, what reproache<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> did <hi>Mr. Weld</hi> (upon the ſober <hi>reaſoning in this caſe) meet with as theſe mens hands?</hi>
+               </p>
+               <p>I come now to examine the <hi>Quaeries;</hi> onely firſt, I beg a word to thoſe that are looking after God in <hi>Gateſhead,</hi> and are not yet Church-members, whom I know deteſt having any hand or conſent in this ſinfull Pamphlet. I humbly deſire God, that the ſtumbling-blocke that theſe men have caſt in their way, may not in any manner prejudice their ſpirits againſt the Goſpel.</p>
+               <p>To <hi>your firſt Quaerie,</hi> I anſwer, That Jeſus Chriſt in his <hi>pro<g ref="char:EOLhyphen"/>videntiall</hi> committing the care of ſoules to men, doth not au<g ref="char:EOLhyphen"/>thorize the Miniſter to proſtitute his pretious Body and Blood to the prophane and ignorant; nor expects he ſhould diſpence priviledges to thoſe that will not come under the yoke of <hi>Chriſt.</hi> If <hi>Mr. Weld</hi> have faithfully revealed the whole counſell of God to the people of <hi>Gateſhead</hi> (as I verily beleeve he hath) and if he diſpence the Sacraments to thoſe that come under the order of the Goſpel, then he may comfortably appeare in the day of his accounts; onely let me deſire you to ſtudy that place you quote, <hi>Heb.</hi> 13. 17. and thinke your ſo often griev<g ref="char:EOLhyphen"/>ing of him, how unprofitable it will be to you in that great day.</p>
+               <p>To your ſecond <hi>quaerie. Wherein you cry up the greatneſſe of Sacramentall myſteries.</hi> I anſwer, That the reaſon why <hi>M. Weld</hi> dare not Adminiſter Baptiſme and the Lords Supper to the prophane multitude, is, becauſe they are ſuch <hi>glorious myſte<g ref="char:EOLhyphen"/>ries; Procul eſte prophani:</hi> Shall they that cannot <hi>diſcerne the Lords Body</hi> partake of it? As for your calling the Sacraments, <hi>Inſtruments of redeeming you,</hi> you ſpeake ignorantly, the Blood of Chriſt onely can redeeme. Where are Sacraments ſaid, <hi>to</hi>
+                  <pb n="26" facs="tcp:35184:14"/> 
+                  <hi>red<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eme?</hi> Did the Bread, or Wine, or Water dye for us? Seales they are of the Covenant of Grace, and ſo to be diſpenſed to thoſe that are in <hi>Covenant.</hi> And whereas you call them <hi>puri<g ref="char:EOLhyphen"/>fying,</hi> know that polluting of Ordinances, it not the way to <hi>purifie hearts.</hi>
+               </p>
+               <p>To your thir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                     <g ref="char:punc">▪</g> as for denying the Sacraments to the multitude;</hi> what ever be the event, he walks by the rule of di<g ref="char:EOLhyphen"/>ſtinguiſhing the <hi>p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ous from the vile.</hi> And for <hi>your feares,</hi> ſurely the with-holding them from the ignorant, is a more likely means to bring them to a ſight of their unworthyneſſe, then the letting them eate and drink their damnation, whereby (if infinite me<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy did not ſtep betwixt) they would be ſea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'d to deſtruction</p>
+               <p>To the fourth <hi>quaerie, the diſcipline of Chriſt is part of the faith once delivered to the Saints,</hi> this diſtinguiſhing carriage to ſaints and others, hath <hi>Scripture, Precept, and Pract<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ce</hi> for it; one pi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce of <hi>Chriſts</hi> laſt will was, <hi>to obſerve all that he commanded us.</hi>
+               </p>
+               <p>To your fifth <hi>qu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi> That of <hi>Chriſt, Mat.</hi> 18. 17 is ſpoken of a particular <hi>Church</hi> to whom he hath committed the power of cenſures; and a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for the Pariſhioners that are not gathered into the Church; the Church neither doth nor can exerciſe power over them, they leave them to ſtand or fall to the Lord. And <hi>for members acting ſingly<g ref="char:punc">▪</g>
+                  </hi> there is no ſuch thing in Church worke; but I am ready to bele<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve, that the Compoſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> of theſe <hi>Quaeries,</hi> is not much acquainted either with the Principles and Practice of the Church way; or with the mind of Chriſt.</p>
+               <p>Your ſixth <hi>quaerie</hi> would perſwade the world, That it is <hi>onely your difference in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>udgement</hi> keeps you out; when alas, they that know you, know it is your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gnorance of the Lord Jeſus, and your looſe converſations keep <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ou out; aske no more <hi>Whether it be Mr.</hi> Welds <hi>care or kindneſſe,</hi> it is his faithfulneſſe to Chriſt that keeps <hi>you out.</hi>
+               </p>
+               <p>Your ſeventh <hi>quaerie</hi> is the ſame with the ſixth only you aske further <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ether Mr.</hi> Weld <hi>his damning of you be matter of con<g ref="char:EOLhyphen"/>viction.</hi> Take heed, his frequent plain, and faithfull dealing with you in his Publick Miniſtry, denouncing wrath to impenitent ſinners, doe not riſe up in judgement againſt you. Wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l ye not heare the Law? ſee that of <hi>Iſay</hi> 30. 9. 10. 11. <hi>This is a rebelliou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+                  <pb n="27" facs="tcp:35184:14"/> 
+                  <hi>people, lying children, children that will not heare the Low of the Lord. Which ſay to the Seers, See not, ſpeake unto us ſmooth things.</hi>
+               </p>
+               <p>To the eighth <hi>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aerie,</hi> Jeſus Chriſt hath told you, <hi>That his Mi<g ref="char:EOLhyphen"/>niſters have power to bind and looſe;</hi> was it not uſuall for the Apo<g ref="char:EOLhyphen"/>ſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es <hi>to intimidate their prey</hi> (as you ſcorners ſpeake) by declaring the greatneſſe of the peoples ſin, and the wrath of God due to it, <hi>Acts</hi> 2. 36. 37. 16. 30. to let people underſtand the autho<g ref="char:EOLhyphen"/>rity <hi>Chriſt</hi> hath inveſted his Miniſters with. <hi>For your being lead into temptation,</hi> there is no great fear of your having Mr. <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lds</hi> perſon in admiration, who ſo vigorouſly ſets himſelfe againſt your ſins.</p>
+               <p>To the ninth <hi>quaerie<g ref="char:punc">▪</g>
+                  </hi> Mr. <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld</hi> his naming the common mul<g ref="char:EOLhyphen"/>titude of the Pariſh <hi>looſe S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ones,</hi> was in reference to the diſpen<g ref="char:EOLhyphen"/>ſing of Priviledges which belong onely to the Church of Chriſt, which is built up a ſpirituall houſe. You ſtill dreame, <hi>He longs for your fixation in the Church over which he is a Paſtour;</hi> alas, you would be <hi>burthenſome Stones<g ref="char:punc">▪</g>
+                  </hi> and <hi>Stones of offence</hi> in it<g ref="char:punc">▪</g> never thinke that ſuch unhewne ſtones are fit for Chriſts build<g ref="char:EOLhyphen"/>ing, or ſhall ever be acceptable to Mr. <hi>Weld<g ref="char:punc">▪</g>
+                  </hi> or that Church.</p>
+               <p>To the tenth <hi>q<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ie,</hi> Know that <hi>Preaching the Goſpel to the people,</hi> is the great work he was ſent to doe, 1 <hi>Cor.</hi> 1. 17. The <hi>Commiſſioners at White hall,</hi> doe not ſend men to give the Sa<g ref="char:EOLhyphen"/>craments; but onely to Preach<g ref="char:punc">▪</g> leaving them to their light in the Lord, as to other Adminiſtrations; nay promiſcuous Com<g ref="char:EOLhyphen"/>munion, is an offence to them. And, <hi>for his mainte<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e for Preaching the Goſpel,</hi> what ſayes <hi>Paul,</hi> 1 <hi>Cor.</hi> 9. 14. <hi>The Lord bath ordained, that thoſe which Preach the Goſpel, ſhould live of the Goſpel.</hi> Beſides, your Conſciences cannot but beare him witneſſe<g ref="char:punc">▪</g> that he faithfully declared at his firſt com<g ref="char:EOLhyphen"/>ming, <hi>That he could not Adminiſter till he ſaw you fit;</hi> and this you all accepted of. And for <hi>denying his Tythes,</hi> you ſhew your ſpirits and affections towards him; bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the <hi>Law</hi> muſt be your Rule, and not your Will.</p>
+               <p>To your eleveth <hi>quaerie.</hi> It ſpeaks much froath and Atheiſme, the Lord will one <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay declare, <hi>who are the Sheep and the Goats.</hi> Reproaching of the goldy is the brand of <hi>ſcorners;</hi> No matter <hi>whether any other Religion</hi> can make <hi>expiation</hi> for the failings of ſaints, ſo the blood of Chriſt doe it; but know, that your revi<g ref="char:EOLhyphen"/>lings,
+<pb n="28" facs="tcp:35184:15"/> God takes notice of; and ſcorners are the worſt of ſin<g ref="char:EOLhyphen"/>ners, as <hi>Pſal.</hi> 1. 1.</p>
+               <p>To the 12. If your irregular proceedings in your Offices make good men <hi>ſhake off your yoke,</hi> thanke your ſelves; whilſt you doe cry up Saints <hi>for ſeemingly holy,</hi> its ſad, you doe not ſo much as <hi>pretend to holineſſe.</hi> And whilſt you compare others to <hi>Abſalom,</hi> conſider who are the <hi>rebellious childr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n, Iſay</hi> 30. 10. whilſt you ſtrive to deveſt the good old man, you<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> iniquities have found you out.</p>
+               <p>To the thirteenth. Alas, your <hi>land markes</hi> are uſurpations, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>akes of your own fixing, no plants engraſted by the Law, and no marvell if they be ſo eaſily pulled up; its not fit ſuch <hi>brambles</hi> ſhould Rule, that ſcratch and teare their Neighbours.</p>
+               <p>To the fourteenth. To ſee an holy life, and gu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſe at future hypocriſies, ſhews little Chriſtian Charit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; <hi>he that begun a good worke in them, will perfect it to the end, Phil.</hi> 1. 6.</p>
+               <p>Reader, I have bin the ſhorter in Anſwer to the <hi>Quaeries,</hi> becauſe they are generally the former calumni<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s raked up into Queſtions; and here I might put many <hi>anti-quaeries.</hi> Onely a word to the <hi>P<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>er,</hi> before I take off my Pen.</p>
+               <p>Friend, If thou bee<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> a Chriſtian indeed, Ile aſſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thee, this pleading for wickedneſſe, to weaken the hands of a faithfull Miniſter of Chriſt, and hearden the hearts of the prophane, will coſt thee much running to the B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood of Chriſt, and ſome teares, before thou dyeſt. The foule blots thou haſt ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t upon the Churches of Chriſt, and Mr. <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld,</hi> muſt be waſht out I aſſure thee. If thou beeſt not a Saint, then it had been better for thee, <hi>that a mill<g ref="char:punc">▪</g>ſtone were hanged about thy neck<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, and thou throwne into the Sea, then that thou ſhould offend,</hi> not one, but many <hi>little ones;</hi> thou haſt treaſured up wrath againſt the day of wrath; the Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay not this ſin to thy Charge.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35184:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
